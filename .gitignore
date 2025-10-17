@@ -3,3 +3,5 @@ __pycache__/
 .venv/
 .env
 # Ignore virtualenv\n.venv/
+uploads
+node_modules
